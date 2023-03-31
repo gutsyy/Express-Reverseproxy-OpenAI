@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Optional eslint cache
+.eslintcache
+
+# Build output
+/build/
+/dist/
+
+# Environment file
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Cache and test result files
+.nyc_output/
+.coverage/
+.cache/
+reports/
+
+# Uploaded files
+uploads/
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Mac files
+.DS_Store
+.AppleDouble
+Icon*
+._*
+.Spotlight-V100
+.Trashes
+*/.Trash
+*/.Trashes
