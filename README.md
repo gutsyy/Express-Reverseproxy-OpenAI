@@ -1,4 +1,5 @@
 ## Reverse Proxy OpenAI Use Express
+使用cloudflare works 反代EventSource总是丢字，直接试试用express实现反代
 
 ```typescript
 import bodyParser from "body-parser";
